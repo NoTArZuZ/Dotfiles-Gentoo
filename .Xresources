@@ -1,0 +1,21 @@
+Xft.antialias:	1
+Xft.hinting:	1
+Xft.autohint:	0
+Xft.hintstyle:	hintmedium
+Xft.rgba:	rgb
+Xft.lcdfilter:	lcddefault
+Xcursor.theme: BreezeX-Light
+Xcursor.size: 32
+
+st.borderpx: 0
+
+st.alpha: 1.0
+
+st.font: JetBrainsMono Nerd Font:medium:pixelsize=17:antialias=true:autohint=true
+! st.font: Terminus (TTF):style=Bold:pixelsize=20
+! st.font: IosevkaTerm Nerd Font Mono:medium:pixelsize=18:antialias=true:autohint=true
+! st.font: Mononoki Nerd Font Mono:medium:pixelsize=18:antialias=true:autohint=true
+
+dmenu.font: Ubuntu:pixelsize=14
+
+#include ".Xtheme"
