@@ -24,4 +24,4 @@ breezex-xcursors
 firefox
 discord
 ```
-Not required: mesa (+opencl), qtstyleplugins
+Not necessary: mesa (+opencl), qtstyleplugins
