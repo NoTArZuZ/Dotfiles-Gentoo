@@ -4,11 +4,11 @@ A very minimal configuration powered by dusk!
 ## Dependencies
 ```
 git
+xorg-server xclip elogind dbus
 https://github.com/NoTArZuZ/dusk-sus
 https://github.com/NoTArZuZ/st-sus
 https://github.com/NoTArZuZ/dmenu-sus
 https://github.com/NoTArZuZ/slstatus-sus
-xorg-server xclip elogind dbus
 pipewire pipewire-pulse wireplumber rtkit
 dunst
 gentoolkit
@@ -24,3 +24,4 @@ breezex-xcursors
 firefox
 discord
 ```
+Not required: mesa (+opencl), qtstyleplugins
