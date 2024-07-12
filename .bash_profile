@@ -7,3 +7,5 @@ if [[ -f ~/.bashrc ]] ; then
 fi
 
 EDITOR=hx
+RUSTICL_ENABLE=radeonsi
+QT_QPA_PLATFORMTHEME=gtk2
