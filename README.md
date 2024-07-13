@@ -4,10 +4,10 @@ A very minimal configuration powered by dusk!
 ## Dependencies
 ```
 git
-[dusk](https://github.com/NoTArZuZ/dusk-sus)
-[st](https://github.com/NoTArZuZ/st-sus)
-[dmenu](https://github.com/NoTArZuZ/dmenu-sus)
-[slstatus-for-dusk](https://github.com/NoTArZuZ/slstatus-sus)
+https://github.com/NoTArZuZ/dusk-sus
+https://github.com/NoTArZuZ/st-sus
+https://github.com/NoTArZuZ/dmenu-sus
+https://github.com/NoTArZuZ/slstatus-sus
 xorg-server xclip elogind dbus
 pipewire pipewire-pulse wireplumber rtkit
 dunst
