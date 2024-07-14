@@ -16,6 +16,7 @@ fi
 
 
 # Put your fun stuff here.
+export INPUTRC="/home/sus/.inputrc"
 PS1="\[\033[1;35m\]  \[\e[1;34m\] \w \[\e[1;32m\]󰅂\[\e[1;37m\] "
 alias "ufetch"="/home/sus/ufetch-gentoo"
 alias "yazi"="TERM=foot yazi"
