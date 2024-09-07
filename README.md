@@ -5,6 +5,7 @@ A very minimal configuration powered by dusk!
 ```
 git
 xorg-server xclip elogind dbus
+picom
 https://github.com/NoTArZuZ/dusk-sus
 https://github.com/NoTArZuZ/st-sus
 https://github.com/NoTArZuZ/dmenu-sus
