@@ -35,4 +35,6 @@ alias "clean-port-pkg"="doas eclean-pkg --deep"
 alias "doed"="doas $EDITOR"
 alias "pwmix"="pulsemixer"
 alias "ezfd"="find / -name "$*" 2>/dev/null"
+alias "ls"="ls --color=auto -a1"
+alias "ll"="ls -al"
 ufetch
