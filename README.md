@@ -10,7 +10,7 @@ https://github.com/NoTArZuZ/dusk-sus
 https://github.com/NoTArZuZ/st-sus
 https://github.com/NoTArZuZ/dmenu-sus
 https://github.com/NoTArZuZ/slstatus-sus
-pipewire pipewire-pulse wireplumber rtkit
+pipewire pipewire-pulse wireplumber rtkit pulsemixer
 dunst
 gentoolkit
 helix
