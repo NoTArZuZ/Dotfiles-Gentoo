@@ -16,9 +16,9 @@ fi
 
 
 # Put your fun stuff here.
-export INPUTRC="/home/sus/.inputrc"
+export INPUTRC="/home/$USER/.inputrc"
 PS1="\[\033[1;35m\]  \[\e[1;34m\] \w \[\e[1;32m\]󰅂\[\e[1;37m\] "
-alias "ufetch"="/home/sus/ufetch-gentoo"
+alias "ufetch"="/home/$USER/ufetch-gentoo"
 alias "yazi"="TERM=foot yazi"
 alias "port-install"="doas emerge -a"
 alias "port-update"="doas emaint -a sync"
